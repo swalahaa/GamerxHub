@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781101989979",
+    "project_id": "gamerxhub-99fce",
+    "storage_bucket": "gamerxhub-99fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781101989979:android:bd3e4878a74c9ed05a3f7e",
+        "android_client_info": {
+          "package_name": "com.gamerx.gamerxhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWyMSVVL_P4IhN__b9pem9XaTq51EqDWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
